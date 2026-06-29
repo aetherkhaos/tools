@@ -4,3 +4,9 @@
 [submodule "ShellHub"]
 	path = ShellHub
 	url = https://github.com/NullSec8/ShellHub
+[submodule "ligolo-ng"]
+	path = ligolo-ng
+	url = https://github.com/nicocha30/ligolo-ng
+[submodule "chisel"]
+	path = chisel
+	url = https://github.com/jpillora/chisel
