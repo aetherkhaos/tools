@@ -1,9 +1,6 @@
 [submodule "ctx"]
 	path = ctx
 	url = https://github.com/Prasivec/ctx
-[submodule "shellhub"]
-	path = shellhub
-	url = https://github.com/shellhub-io/shellhub
 [submodule "ShellHub"]
 	path = ShellHub
 	url = https://github.com/NullSec8/ShellHub
