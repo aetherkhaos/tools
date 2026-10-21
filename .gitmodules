@@ -10,3 +10,6 @@
 [submodule "chisel"]
 	path = chisel
 	url = https://github.com/jpillora/chisel
+[submodule "web reverse shell generator"]
+	path = reverse-shell-generator
+	url = https://github.com/0dayCTF/reverse-shell-generator
