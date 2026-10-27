@@ -16,3 +16,6 @@
 [submodule "reverse-shell-generator"]
 	path = reverse-shell-generator
 	url = https://github.com/0dayCTF/reverse-shell-generator
+[submodule "sliver"]
+	path = sliver
+	url = https://github.com/BishopFox/sliver
