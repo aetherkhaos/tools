@@ -19,3 +19,9 @@
 [submodule "sliver"]
 	path = sliver
 	url = https://github.com/BishopFox/sliver
+[submodule "Mythic"]
+	path = Mythic
+	url = https://github.com/its-a-feature/Mythic
+[submodule "Havoc"]
+	path = Havoc
+	url = https://github.com/HavocFramework/Havoc
